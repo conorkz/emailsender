@@ -1,2 +1,2 @@
-# emailsender with python
-Email sender with python
+# Email sender with python
+Send emails using smtplib library. 
