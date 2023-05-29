@@ -3,6 +3,7 @@ This script sends an email from you to any desired email address using smtplib.
 ## Requirements
 - Python 3.x
 - Smtplib module
+- Or just run `$ pip install -r requirements.txt`
 ## Usage
 1. Save the script to a file (e.g. `emaill.py`). Don't name your file with 'email'.
 2. Write your email and password in the script.
